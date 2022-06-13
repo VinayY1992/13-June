@@ -3,7 +3,7 @@ package ArmStrongNum;
 public class ArmStrongNumber {
 	public static void main(String[] args) {
 		
-	int a=371;
+	int a=515;
 	int c;
 	int d=0;
 	int b=a;
@@ -23,6 +23,7 @@ public class ArmStrongNumber {
 	{
 		System.out.println("Not Armstrong num");
 	}
+	System.out.println("Git Hub Practice");
 
 }
 }
